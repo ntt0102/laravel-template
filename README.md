@@ -1,2 +1,0 @@
-# laravel-template
-laravel template
